@@ -1,0 +1,38 @@
+{
+  "name": "invoicing-app",
+  "version": "1.0.0",
+  "description": "A mini invoicing application with using vue and node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sireBlack/invoicing-app.git"
+  },
+  "keywords": [
+    "invoice",
+    "invoicing",
+    "app",
+    "vue",
+    "node",
+    "invoicing",
+    "app"
+  ],
+  "author": "Ibiyemi Damilare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sireBlack/invoicing-app/issues"
+  },
+  "homepage": "https://github.com/sireBlack/invoicing-app#readme",
+  "dependencies": {
+    "bcrypt": "^2.0.1",
+    "bluebird": "^3.5.1",
+    "body-parser": "^1.18.3",
+    "connect-multiparty": "^2.1.0",
+    "express": "^4.16.3",
+    "path": "^0.12.7",
+    "sqlite3": "^4.0.0",
+    "umzug": "^2.1.0"
+  }
+}
